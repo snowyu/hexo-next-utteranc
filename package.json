@@ -21,6 +21,5 @@
   },
   "homepage": "https://github.com/theme-next/hexo-next-utteranc#readme",
   "dependencies": {
-    "next-util": "github:theme-next/next-util"
   }
 }
